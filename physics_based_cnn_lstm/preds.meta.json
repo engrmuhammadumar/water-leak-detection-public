@@ -1,0 +1,17 @@
+{
+  "ckpt": "E:\\Upwork Project\\AI Leak\\new_physics_II\\checkpoints\\cnn_lstm_cwt.pt",
+  "model": "cnn_lstm_physics_fusion",
+  "tta": true,
+  "norm": {
+    "mean": 0.4314343428354414,
+    "std": 0.17452217493602343
+  },
+  "num_rows": 565,
+  "classes": [
+    "No-leak",
+    "Orifice Leak",
+    "Gasket Leak",
+    "Longitudinal Crack",
+    "Circumferential Crack"
+  ]
+}
