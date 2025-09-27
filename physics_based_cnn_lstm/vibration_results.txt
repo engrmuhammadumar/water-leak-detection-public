@@ -1,0 +1,3 @@
+Results for vibration:
+Accuracy: 36.0%
+F1-Score: 29.8%
