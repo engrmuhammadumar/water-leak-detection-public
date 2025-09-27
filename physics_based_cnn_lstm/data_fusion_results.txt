@@ -1,0 +1,3 @@
+Results for data_fusion:
+Accuracy: 50.4%
+F1-Score: 40.4%
